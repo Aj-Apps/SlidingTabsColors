@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ashley.widowson\Desktop\SlidingTabsColors2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\ashley.widowson\Desktop\SlidingTabsColors2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-648e20eabbc678d33b7b6d9a74ea7e56915bdbf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ashley.widowson\Desktop\SlidingTabsColors2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\ashley.widowson\Desktop\SlidingTabsColors2\Application\build\intermediates\pre-dexed\debug\classes-7474143a55d3874a94fc4c4694bb9dc56be9174b.jar" />
+    </item>
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\ashley.widowson\Desktop\SlidingTabsColors2\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-117cc3ea8d194f2ac8366d373536355ad96c1d04.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_android">Android</string>
+    <string name="tab_windows">Windows</string>
+    <string name="tab_osx">OSX</string>
+    <string name="tab_linux">Linux</string>
+    <string name="tab_dos">DOS</string>
+    <string name="tab_next">Next</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_slide_tab">SlideTab</string>
+
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SlidingTabsColors</string>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_android">Android</string>
+    <string name="tab_dos">DOS</string>
+    <string name="tab_linux">Linux</string>
+    <string name="tab_next">Next</string>
+    <string name="tab_osx">OSX</string>
+    <string name="tab_windows">Windows</string>
+    <string name="title_activity_slide_tab">SlideTab</string>
+    <!-- From: file:/C:/Users/ashley.widowson/Desktop/SlidingTabsColors2/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="CustomActionBarTheme"/>
+    <style name="CustomActionBarTheme" ns1:ignore="NewApi" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" ns1:ignore="NewApi" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#ff9a9a9a</item>
+        <item name="android:text">#ff000000</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/android</item>
+        <item name="android:shadowColor">#ff093dff</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
